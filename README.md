@@ -1,5 +1,12 @@
-# Joshua Yeung
-*Data Engineer at China Mobile Hong Kong*
+# Summary
+* Motivated and efficient engineer in developing and maintaining application layers, data layers, and infrastructure layers. 
+* Passionate about building reliable and performant data-driven applications that extract insights from data. 
+* Seeking to develop a long-term product focusing on sustainability and quality.
+
+# Experience
+* Engineer, *China Mobile Hong Kong*, Aug 2017 - Present
+* Assistant Engineer, *Huawei International Co. Limited*, Sep 2014 - Jul 2017
+* Student Research Assistant, *The Chinese University of Hong Kong*, Sep 2012 - Feb 2014
 
 # Certificate
 * MongoDB Certified Developer, Associate, Issued May 2021
