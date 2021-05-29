@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Joshua Yeung
+*Data Engineer at China Mobile Hong Kong*
 
-You can use the [editor on GitHub](https://github.com/joshuayeung/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Certificate
+* MongoDB Certified Developer, Associate, Issued May 2021
+* Certified Kubernetes Application Developer *CKAD*, Issued Nov 2020 - Expires Nov 2023
+* AWS Certified Solutions Architect - Associate, Issued Aug 2020 - Expires Aug 2023
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Project 1: Automated Reporting System for Performance Monitoring](https://towardsdatascience.com/designing-data-pipeline-system-for-telco-performance-measurement-3fa807dbd009)
+![alt text](https://miro.medium.com/max/700/1*rluN7jmERlImSgtdYoJUEg.png)
 
-### Markdown
+This project integrates various data source from network management systems for performance monitoring and reporting.
+* **Python libraries used:** Streamlit, Pandas, SQLAlchemy, openpyxl
+* **Technology Stack:** Airflow, Greenplum, MySQL, Docker
+* **Input:** Metrics in CSV format
+* **Output:** Interactive Dashboard, Excel Reports
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# [Project 2: Data Pipelines Using Apache Airflow on Kubernetes](https://towardsdatascience.com/setting-up-data-pipelines-using-apache-airflow-on-kubernetes-4506baea3ce0)
 
-# Header 1
-## Header 2
-### Header 3
+This project makes use of ***Apache Airflow*** deployed on ***Kubernetes*** to build data pipelines.
+* **Technology Stack:** Airflow, Kubernetes, Helm, Gitlab
 
-- Bulleted
-- List
+# [Project 3: Deploy a Production-Ready On-Premise Kubernetes Cluster](https://towardsdatascience.com/deploy-a-production-ready-on-premise-kubernetes-cluster-36a5d62a2109)
 
-1. Numbered
-2. List
+In this project, I deployed a Kubernetes cluster on bare metal.
+* **Technology Stack:** Ansible, Kubespray, Kubernetes, HAProxy, keepalived, MetalLB, Helm, NGINX ingress controller, Longhorn, Harbor
 
-**Bold** and _Italic_ and `Code` text
+# [Project 4: Monitoring System on Kubernetes Using Thanos, Prometheus, and Grafana]()
 
-[Link](url) and ![Image](src)
-```
+This project integrates various open source software to build a monitoring system.
+* **Technology Stack:** Kubernetes, Thanos, Prometheus, Grafana, SNMP exporter
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# [Project 5: Abstracting Backend API Authentication with Python & Redis](https://towardsdatascience.com/building-small-services-deploying-on-kubernetes-and-integrating-with-api-gateway-4909db4e5282)
+![alt text](https://miro.medium.com/max/554/1*EYo-rMSTy3SLRW5GXONRTQ.png)
 
-### Jekyll Themes
+In this project, I wrote a small services integrating backend system with the API gateway and deployed it on Kubernetes.
+* **Technology Stack:** Kubernetes, Python, Redis, API Gateway, FastAPI
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshuayeung/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Education
+* Bachelors of Engineering (Information Engineering), *The Chinese University of Hong Kong*, 2008-2012
+* Bachelors of Science (Mathematics), *The Chinese University of Hong Kong*, 2008-2011
