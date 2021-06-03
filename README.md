@@ -16,7 +16,7 @@
 # Projects
 
 ## [Automated Reporting System for Performance Monitoring](https://towardsdatascience.com/designing-data-pipeline-system-for-telco-performance-measurement-3fa807dbd009)
-![alt text](https://miro.medium.com/max/700/1*rluN7jmERlImSgtdYoJUEg.png)
+![system diagram](https://miro.medium.com/max/700/1*rluN7jmERlImSgtdYoJUEg.png)
 
 This project integrates various data source from network management systems for performance monitoring and reporting.
 * **Python libraries used:** Streamlit, Pandas, SQLAlchemy, openpyxl
@@ -41,10 +41,15 @@ This project integrates various open source software to build a monitoring syste
 * **Technology Stack:** Kubernetes, Thanos, Prometheus, Grafana, SNMP exporter
 
 ## [Abstracting Backend API Authentication with Python & Redis](https://towardsdatascience.com/building-small-services-deploying-on-kubernetes-and-integrating-with-api-gateway-4909db4e5282)
-![alt text](https://miro.medium.com/max/554/1*EYo-rMSTy3SLRW5GXONRTQ.png)
+![system diagram](https://miro.medium.com/max/554/1*EYo-rMSTy3SLRW5GXONRTQ.png)
 
 In this project, I wrote a small services integrating backend system with the API gateway and deployed it on Kubernetes.
 * **Technology Stack:** Kubernetes, Python, Redis, API Gateway, FastAPI
+
+## [Visualizing Traffic Conditions Based on Radio Traffic News](https://towardsdatascience.com/visualizing-traffic-conditions-based-on-radio-traffic-news-67e63eee58b3)
+![traffic news map](https://miro.medium.com/max/2736/1*GEMfVemN6UfmMQBj0AboQw.png)
+
+In this project, I used a Python library called [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to scraping the traffic news from RTHK radio website. Categories of different traffic news such as congestion, accident, busy, blocked, etc. and the location are extracted from the text. Geolocation info is queried using [GeoPy](https://geopy.readthedocs.io/en/stable/)
 
 # Education
 * Bachelors of Engineering (Information Engineering), *The Chinese University of Hong Kong*, 2008-2012
