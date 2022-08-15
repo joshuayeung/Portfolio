@@ -4,7 +4,7 @@
 * Seeking to develop a long-term product focusing on sustainability and quality.
 
 # Experience
-# Advanced Data Engineer, *Zuhlke Hong Kong*, Aug 2021 - Present
+* Advanced Data Engineer, *Zuhlke Hong Kong*, Aug 2021 - Present
 * Engineer, *China Mobile Hong Kong*, Aug 2017 - Aug 2021
 * Assistant Engineer, *Huawei International Co. Limited*, Sep 2014 - Jul 2017
 * Student Research Assistant, *The Chinese University of Hong Kong*, Sep 2012 - Feb 2014
