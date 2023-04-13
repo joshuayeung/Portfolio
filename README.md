@@ -4,7 +4,7 @@
 * Seeking to develop a long-term product focusing on sustainability and quality.
 
 # Experience
-* Advanced Data Engineer, *Zuhlke Hong Kong*, Aug 2021 - Present
+* Advanced Data Engineer, *Zuhlke Engineering Hong Kong Limited*, Aug 2021 - Present
 * Engineer, *China Mobile Hong Kong*, Aug 2017 - Aug 2021
 * Assistant Engineer, *Huawei International Co. Limited*, Sep 2014 - Jul 2017
 * Student Research Assistant, *The Chinese University of Hong Kong*, Sep 2012 - Feb 2014
@@ -13,6 +13,11 @@
 * MongoDB Certified Developer, Associate, Issued May 2021
 * Certified Kubernetes Application Developer *CKAD*, Issued Nov 2020 - Expires Nov 2023
 * AWS Certified Solutions Architect - Associate, Issued Aug 2020 - Expires Aug 2023
+* Dataiku Core Designer, Issued Aug 2022
+* AWS Certified Data Analytics - Specialty, Issued Sep 2022 - Expires Sep 2025
+* IBM Data Engineering Professional Certificate, Issued Jan 2023
+* IBM Data Warehouse Engineer Professional Certificate, Issued Jan 2023
+
 
 # Projects
 
@@ -55,3 +60,5 @@ In this project, I used a Python library called [BeautifulSoup](https://www.crum
 # Education
 * Bachelors of Engineering (Information Engineering), *The Chinese University of Hong Kong*, 2008-2012
 * Bachelors of Science (Mathematics), *The Chinese University of Hong Kong*, 2008-2011
+* Data Scientist Nanodegree, *Udacity*, 2019
+* Data Engineering Nanodegree, *Udacity*, 2020
